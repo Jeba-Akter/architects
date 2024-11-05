@@ -108,8 +108,8 @@ header{
         
     }
     .main-section
-    .cotent{
-        align-items: center;
+    .cotent h1{
+        text-align: center;
    
     }
     .main-section
