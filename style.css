@@ -79,7 +79,7 @@ header{
 }
 @media screen and (max-width:476px) {
     header{
-        width: 80%;
+        width: 100%;
         margin: 0%;
         padding: 0%;
     }
@@ -100,7 +100,7 @@ header{
     }
     .main-section {
         flex-direction: column;
-        width: 80%;
+        width: 100%;
         margin: 0%;
         /* padding-top: 20px; */
         justify-content: center;
